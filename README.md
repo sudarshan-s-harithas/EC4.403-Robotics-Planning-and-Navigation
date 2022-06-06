@@ -10,8 +10,8 @@
 1. Fitting Bernstein polynomials to Non-holonomic robot trajectories
 
 ## Project 1
-
-1. Constant time-scaling 
+ 
+1. Constant time-scaling <br />
 1.1 Rule-based constant <br />
 1.2 Collision-cone based <br />
 
