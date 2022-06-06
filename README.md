@@ -11,9 +11,9 @@
 
 ## Project 1
 
-1. Constant time-scaling \\
-1.1 Rule-based constant \\
-1.2 Collision-cone based \\
+1. Constant time-scaling 
+1.1 Rule-based constant <br />
+1.2 Collision-cone based <br />
 
 2. Linear time-scaling
 3. Theoretical Questions 
